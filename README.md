@@ -23,7 +23,7 @@ pip install -r requirements.txt
 python server.py
 ```
 
-And you also need to serve the files at the root of the project. You can use SimpleHTTPServer module in python. To do that, change directyory to the project base and enter the following command:
+And you also need to serve the files at the root of the project. You can use SimpleHTTPServer module in python. To do that, change directory to the project base and enter the following command:
 ```
 python -m SimpleHTTPServer
 ```
